@@ -1,0 +1,3 @@
+O jogo ainda tem alguns bugs, como: O jogo não detectar que o Player está encostando no inimigo, a Fire ball não quicando no chão,essas coisas.
+
+Eu não consegui programar a Fire Ball,o bounceOff não está funcionando para mim.
