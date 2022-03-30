@@ -119,7 +119,7 @@ function setup() {
   SensorTop.shapeColor = "yellow";
   SensorTop.visible = false;
 
-  Ground = createSprite(500,windowHeight - 200,500,10);
+  Ground = createSprite(500,height - 200,500,10);
   Ground.addAnimation("Ground",GroundImage);
 
 
